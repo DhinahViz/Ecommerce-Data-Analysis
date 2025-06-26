@@ -1,0 +1,12 @@
+ E-Commerce Data Analysis Summary
+
+
+ Total Records Analyzed: 401604
+ Unique Customers: 4372
+ Countries Involved: 37
+ Country with Most Transactions: United Kingdom
+
+Highest Revenue Product: REGENCY CAKESTAND 3 TIER
+Month with Highest Sales: 2011-11
+
+For more insights, check the charts in the 'plots/' folder.
